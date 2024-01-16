@@ -1,7 +1,7 @@
 package 'tue_dein_Ding' {
 	
 	part def Bedrohung;
-	part def Hungriger Löwe;
+	part def Hungriger_Loewe;
 	part def Bohnenfeld;
 	part def Partner;
 	
