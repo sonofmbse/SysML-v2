@@ -3,9 +3,16 @@
 	<name>SysML-v2-Release</name>
 	<comment></comment>
 	<projects>
+		<project>sysml.library</project>
 	</projects>
 	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.xtext.ui.shared.xtextBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
 	</buildSpec>
 	<natures>
+		<nature>org.eclipse.xtext.ui.shared.xtextNature</nature>
 	</natures>
 </projectDescription>
